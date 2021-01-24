@@ -7,4 +7,4 @@ After adding your own 3D blender models you can create a pull request for the re
 By this approach the 3D Blender community can build on joint repository of Blender models.
 
 ## Test of the forked 3D Models
-The models could not be loaded with Blender 2.76
+The models could not be loaded with Blender 2.76 - Blender reported error in file format
